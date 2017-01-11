@@ -1,2 +1,2 @@
 # ThingToKnows
-[Home](wiki)
+[Home](https://github.com/michaelneuf/ThingToKnows/wiki)
