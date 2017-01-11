@@ -1,1 +1,2 @@
 # ThingToKnows
+[Home](wiki)
